@@ -38,8 +38,6 @@
 
 <a href="https://github.com/Jung-sunghoon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-sunghoon&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-sunghoon&show_icons=true&theme=tokyonight)](https://github.com/Jung-sunghoon/github-readme-stats)
-
 
 <!--
 **Jung-sunghoon/Jung-sunghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
