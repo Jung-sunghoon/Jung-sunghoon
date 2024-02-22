@@ -30,10 +30,6 @@
 <!--Docker -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-## Velog
-<!--Velog-->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=@jsh_0218)](https://velog.io/@jsh_0218)
-
 ## My stats
 
 <a href="https://github.com/Jung-sunghoon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-sunghoon&layout=compact&theme=tokyonight&hide_border=true" /></a> 
