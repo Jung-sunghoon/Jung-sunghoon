@@ -1,51 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome-nl-&fontSize=90&desc=JShoon's%20Github&)
+## 반갑습니다, 프론트엔드 개발자 정성훈입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
 
-## Tech Stacks
+
+<img align="right" alt="코딩" width="200" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" /> 
+
+<img width="200" src="https://img.shields.io/badge/Gmail-jsh0218131@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+안녕하세요, 반갑습니다. 🤗<br />저는 현재 신입 프론트엔드 개발자 입니다. 🚀<br />지금은 취업 준비를 하고 있습니다.<br /><br /><i><strong>작은 성장이라도 모이면 언젠가 커진다.</strong></i><br /> 
+
+<br />
+<br />
+
+
+## Hello World!! 🤔
+
+
+  <img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+
+
+• 함께 성장을 가치로 삼고 있습니다.  
+• 이력서 - https://season-argon-d3f.notion.site/12d0545d830080aea099eb51c2086a55  
+• 포트폴리오 - https://jung-sunghoon.github.io/projects  
+<br />
+<br />
+
+
+## 기술 스택
 
 ### Frontend
-<div style="display:flex">
-<!--TypeScript -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<!--JavaScript-->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<!--HTML5-->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<!--CSS-->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-</div>
 
-### Library
-<!--React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="30" /> 
 
 ### Backend
-<!--Node.js -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
-### Database
-<!--MariaDB -->
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white" height="30" /> 
 
-### Deployment
-<!--Docker -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+### Other
 
-## My stats
-
-<a href="https://github.com/Jung-sunghoon"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-sunghoon&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" /> 
 
 
-<!--
-**Jung-sunghoon/Jung-sunghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+- [리액트 최적화에 관하여](https://jung-sunghoon.github.io/blogdetails/14) 
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more articles...](https://disquiet.io/@zztkdfo/articles)
