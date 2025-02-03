@@ -26,7 +26,7 @@ React와 TypeScript를 중심으로 한 기술 스택을 기반으로 사용자�
 
   <img align="right" alt="코딩" width="320" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-• 이력서 - https://season-argon-d3f.notion.site/12d0545d830080aea099eb51c2086a55  
+• 이력서 - https://jung-sunghoon.github.io/aboutme  
 • 포트폴리오 - https://jung-sunghoon.github.io/projects  
 <br />
 <br />
